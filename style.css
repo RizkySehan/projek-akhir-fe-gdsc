@@ -299,10 +299,12 @@ footer .copyright {
   }
 
   .home .home-text {
+    width: 100%;
     order: 2;
   }
 
   .home .home-img {
+    width: 100%;
     order: 1;
   }
 
@@ -332,6 +334,7 @@ footer .copyright {
 
   .service .service-content {
     flex-direction: column;
+    padding: 0;
   }
 
   .service .service-content .card {
